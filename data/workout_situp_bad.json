@@ -1,0 +1,1877 @@
+[
+  {
+    "type": "chestHeight",
+    "timestamp": 10,
+    "value": 0
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 20,
+    "value": 0.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 30,
+    "value": 1
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 40,
+    "value": 1.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 50,
+    "value": 2
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 60,
+    "value": 2.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 70,
+    "value": 3
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 80,
+    "value": 3.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 90,
+    "value": 4
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 100,
+    "value": 4.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 110,
+    "value": 5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 120,
+    "value": 5.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 130,
+    "value": 6
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 140,
+    "value": 6.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 150,
+    "value": 7
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 160,
+    "value": 7.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 170,
+    "value": 8
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 180,
+    "value": 8.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 190,
+    "value": 9
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 200,
+    "value": 9.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 210,
+    "value": 10
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 220,
+    "value": 10.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 230,
+    "value": 11
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 240,
+    "value": 11.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 250,
+    "value": 12
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 260,
+    "value": 12.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 270,
+    "value": 13
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 280,
+    "value": 13.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 290,
+    "value": 14
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 300,
+    "value": 14.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 310,
+    "value": 15
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 320,
+    "value": 15.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 330,
+    "value": 16
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 340,
+    "value": 16.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 350,
+    "value": 17
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 360,
+    "value": 17.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 370,
+    "value": 18
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 380,
+    "value": 18.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 390,
+    "value": 19
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 400,
+    "value": 19.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 410,
+    "value": 20
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 420,
+    "value": 20.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 430,
+    "value": 21
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 440,
+    "value": 21.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 450,
+    "value": 22
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 460,
+    "value": 22.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 470,
+    "value": 23
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 480,
+    "value": 23.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 490,
+    "value": 24
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 500,
+    "value": 24.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 510,
+    "value": 25
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 520,
+    "value": 25.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 530,
+    "value": 26
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 540,
+    "value": 26.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 550,
+    "value": 27
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 560,
+    "value": 27.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 570,
+    "value": 28
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 580,
+    "value": 28.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 590,
+    "value": 29
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 600,
+    "value": 29.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 610,
+    "value": 30
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 620,
+    "value": 30.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 630,
+    "value": 31
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 640,
+    "value": 31.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 650,
+    "value": 32
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 660,
+    "value": 32.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 670,
+    "value": 33
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 680,
+    "value": 33.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 690,
+    "value": 34
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 700,
+    "value": 34.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 710,
+    "value": 35
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 720,
+    "value": 35.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 730,
+    "value": 36
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 740,
+    "value": 36.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 750,
+    "value": 37
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 760,
+    "value": 37.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 770,
+    "value": 38
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 780,
+    "value": 38.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 790,
+    "value": 39
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 800,
+    "value": 39.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 810,
+    "value": 40
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 820,
+    "value": 40.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 830,
+    "value": 41
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 840,
+    "value": 41.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 850,
+    "value": 42
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 860,
+    "value": 42.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 870,
+    "value": 43
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 880,
+    "value": 43.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 890,
+    "value": 44
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 900,
+    "value": 44.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 910,
+    "value": 45
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 920,
+    "value": 45.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 930,
+    "value": 46
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 940,
+    "value": 46.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 950,
+    "value": 47
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 960,
+    "value": 47.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 970,
+    "value": 48
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 980,
+    "value": 48.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 990,
+    "value": 49
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 1000,
+    "value": 49.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 1010,
+    "value": 50
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 1020,
+    "value": 50.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 1030,
+    "value": 51
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 1040,
+    "value": 51.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 1050,
+    "value": 52
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 1060,
+    "value": 52.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 1070,
+    "value": 53
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 1080,
+    "value": 53.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 1090,
+    "value": 54
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 1100,
+    "value": 54.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 1110,
+    "value": 55
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 1120,
+    "value": 55.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 1130,
+    "value": 56
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 1140,
+    "value": 56.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 1150,
+    "value": 57
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 1160,
+    "value": 57.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 1170,
+    "value": 58
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 1180,
+    "value": 58.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 1190,
+    "value": 59
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 1200,
+    "value": 59.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 1210,
+    "value": 60
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 1220,
+    "value": 60.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 1230,
+    "value": 61
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 1240,
+    "value": 61.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 1250,
+    "value": 62
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 1260,
+    "value": 62.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 1270,
+    "value": 63
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 1280,
+    "value": 63.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 1290,
+    "value": 64
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 1300,
+    "value": 64.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 1310,
+    "value": 65
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 1320,
+    "value": 65.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 1330,
+    "value": 66
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 1340,
+    "value": 66.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 1350,
+    "value": 67
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 1360,
+    "value": 67.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 1370,
+    "value": 68
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 1380,
+    "value": 68.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 1390,
+    "value": 69
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 2390,
+    "value": 69
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 2400,
+    "value": 68.75
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 2410,
+    "value": 68.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 2420,
+    "value": 68.25
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 2430,
+    "value": 68
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 2440,
+    "value": 67.75
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 2450,
+    "value": 67.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 2460,
+    "value": 67.25
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 2470,
+    "value": 67
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 2480,
+    "value": 66.75
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 2490,
+    "value": 66.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 2500,
+    "value": 66.25
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 2510,
+    "value": 66
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 2520,
+    "value": 65.75
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 2530,
+    "value": 65.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 2540,
+    "value": 65.25
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 2550,
+    "value": 65
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 2560,
+    "value": 64.75
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 2570,
+    "value": 64.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 2580,
+    "value": 64.25
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 2590,
+    "value": 64
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 2600,
+    "value": 63.75
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 2610,
+    "value": 63.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 6610,
+    "value": 63.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 6620,
+    "value": 64
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 6630,
+    "value": 64.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 6640,
+    "value": 65
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 6650,
+    "value": 65.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 6660,
+    "value": 66
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 6670,
+    "value": 66.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 6680,
+    "value": 67
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 6690,
+    "value": 67.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 6700,
+    "value": 68
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 6710,
+    "value": 68.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 6720,
+    "value": 69
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 6730,
+    "value": 69.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 6740,
+    "value": 70
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 6750,
+    "value": 70.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 6760,
+    "value": 71
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 6770,
+    "value": 71.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 6780,
+    "value": 72
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 6790,
+    "value": 72.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 6800,
+    "value": 73
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 6810,
+    "value": 73.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 6820,
+    "value": 74
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 6830,
+    "value": 74.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 6840,
+    "value": 75
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 6850,
+    "value": 75.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 6860,
+    "value": 76
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 6870,
+    "value": 76.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 6880,
+    "value": 77
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 6890,
+    "value": 77.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 6900,
+    "value": 78
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 6910,
+    "value": 78.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 6920,
+    "value": 79
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 6930,
+    "value": 79.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 6940,
+    "value": 80
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 6950,
+    "value": 80.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 6960,
+    "value": 81
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 6970,
+    "value": 81.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 6980,
+    "value": 82
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 6990,
+    "value": 82.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 7000,
+    "value": 83
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 7010,
+    "value": 83.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 7020,
+    "value": 84
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 7030,
+    "value": 84.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8040,
+    "value": 84.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8050,
+    "value": 84
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8060,
+    "value": 83.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8070,
+    "value": 83
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8080,
+    "value": 82.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8090,
+    "value": 82
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8100,
+    "value": 81.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8110,
+    "value": 81
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8120,
+    "value": 80.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8130,
+    "value": 80
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8140,
+    "value": 79.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8150,
+    "value": 79
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8160,
+    "value": 78.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8170,
+    "value": 78
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8180,
+    "value": 77.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8190,
+    "value": 77
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8200,
+    "value": 76.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8210,
+    "value": 76
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8220,
+    "value": 75.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8230,
+    "value": 75
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8240,
+    "value": 74.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8250,
+    "value": 74
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8260,
+    "value": 73.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8270,
+    "value": 73
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8280,
+    "value": 72.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8290,
+    "value": 72
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8300,
+    "value": 71.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8310,
+    "value": 71
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8320,
+    "value": 70.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8330,
+    "value": 70
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8340,
+    "value": 69.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8350,
+    "value": 69
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8360,
+    "value": 68.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8370,
+    "value": 68
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8380,
+    "value": 67.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8390,
+    "value": 67
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8400,
+    "value": 66.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8410,
+    "value": 66
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8420,
+    "value": 65.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8430,
+    "value": 65
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8440,
+    "value": 64.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8450,
+    "value": 64
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8460,
+    "value": 63.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8470,
+    "value": 63
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8480,
+    "value": 62.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8490,
+    "value": 62
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8500,
+    "value": 61.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8510,
+    "value": 61
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8520,
+    "value": 60.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8530,
+    "value": 60
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8540,
+    "value": 59.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8550,
+    "value": 59
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8560,
+    "value": 58.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8570,
+    "value": 58
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8580,
+    "value": 57.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8590,
+    "value": 57
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8600,
+    "value": 56.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8610,
+    "value": 56
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8620,
+    "value": 55.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8630,
+    "value": 55
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8640,
+    "value": 54.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8650,
+    "value": 54
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8660,
+    "value": 53.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8670,
+    "value": 53
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8680,
+    "value": 52.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8690,
+    "value": 52
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8700,
+    "value": 51.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8710,
+    "value": 51
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8720,
+    "value": 50.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8730,
+    "value": 50
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8740,
+    "value": 49.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8750,
+    "value": 49
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8760,
+    "value": 48.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8770,
+    "value": 48
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8780,
+    "value": 47.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8790,
+    "value": 47
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8800,
+    "value": 46.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8810,
+    "value": 46
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8820,
+    "value": 45.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8830,
+    "value": 45
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8840,
+    "value": 44.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8850,
+    "value": 44
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8860,
+    "value": 43.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8870,
+    "value": 43
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8880,
+    "value": 42.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8890,
+    "value": 42
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8900,
+    "value": 41.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8910,
+    "value": 41
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8920,
+    "value": 40.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8930,
+    "value": 40
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8940,
+    "value": 39.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8950,
+    "value": 39
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8960,
+    "value": 38.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8970,
+    "value": 38
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8980,
+    "value": 37.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 8990,
+    "value": 37
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9000,
+    "value": 36.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9010,
+    "value": 36
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9020,
+    "value": 35.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9030,
+    "value": 35
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9040,
+    "value": 34.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9050,
+    "value": 34
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9060,
+    "value": 33.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9070,
+    "value": 33
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9080,
+    "value": 32.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9090,
+    "value": 32
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9100,
+    "value": 31.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9110,
+    "value": 31
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9120,
+    "value": 30.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9130,
+    "value": 30
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9140,
+    "value": 29.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9150,
+    "value": 29
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9160,
+    "value": 28.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9170,
+    "value": 28
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9180,
+    "value": 27.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9190,
+    "value": 27
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9200,
+    "value": 26.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9210,
+    "value": 26
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9220,
+    "value": 25.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9230,
+    "value": 25
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9240,
+    "value": 24.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9250,
+    "value": 24
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9260,
+    "value": 23.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9270,
+    "value": 23
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9280,
+    "value": 22.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9290,
+    "value": 22
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9300,
+    "value": 21.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9310,
+    "value": 21
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9320,
+    "value": 20.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9330,
+    "value": 20
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9340,
+    "value": 19.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9350,
+    "value": 19
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9360,
+    "value": 18.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9370,
+    "value": 18
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9380,
+    "value": 17.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9390,
+    "value": 17
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9400,
+    "value": 16.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9410,
+    "value": 16
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9420,
+    "value": 15.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9430,
+    "value": 15
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9440,
+    "value": 14.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9450,
+    "value": 14
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9460,
+    "value": 13.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9470,
+    "value": 13
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9480,
+    "value": 12.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9490,
+    "value": 12
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9500,
+    "value": 11.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9510,
+    "value": 11
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9520,
+    "value": 10.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9530,
+    "value": 10
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9540,
+    "value": 9.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9550,
+    "value": 9
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9560,
+    "value": 8.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9570,
+    "value": 8
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9580,
+    "value": 7.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9590,
+    "value": 7
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9600,
+    "value": 6.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9610,
+    "value": 6
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9620,
+    "value": 5.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9630,
+    "value": 5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9640,
+    "value": 4.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9650,
+    "value": 4
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9660,
+    "value": 3.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9670,
+    "value": 3
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9680,
+    "value": 2.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9690,
+    "value": 2
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9700,
+    "value": 1.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9710,
+    "value": 1
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9720,
+    "value": 0.5
+  },
+  {
+    "type": "chestHeight",
+    "timestamp": 9730,
+    "value": 0
+  }
+]
